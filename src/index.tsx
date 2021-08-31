@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
-import {booksData} from './books-data'
+import {booksData} from './books-dataPriti'
 ReactDOM.render(
   <React.StrictMode>
     <App booksData={booksData}/>
